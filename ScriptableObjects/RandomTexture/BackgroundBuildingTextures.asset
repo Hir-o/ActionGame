@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 458db303c0c356d41904332d017379f0, type: 3}
+  m_Name: BackgroundBuildingTextures
+  m_EditorClassIdentifier: 
+  _textureArray:
+  - {fileID: 2800000, guid: fbde5f73f39181f4d9c7e24c34f0bdf8, type: 3}
+  - {fileID: 2800000, guid: 344af90ed60f96447801596dc5194c70, type: 3}
+  - {fileID: 2800000, guid: 8b3b5dcefb13f9749adfaa0009fa7561, type: 3}
+  - {fileID: 2800000, guid: 564f29d2c3b83c04bb90ba2d657b2421, type: 3}
+  - {fileID: 2800000, guid: 3597477262f71434faded6c191b5e1dc, type: 3}
+  - {fileID: 2800000, guid: 4caaeb2b08a326b4ea412187b3d0b1bb, type: 3}
+  - {fileID: 2800000, guid: 36feb82263c3ae54b9317c97603a3bce, type: 3}
+  - {fileID: 2800000, guid: fb28081f4cefc0047858e77e21deb92c, type: 3}
+  - {fileID: 2800000, guid: fbde5f73f39181f4d9c7e24c34f0bdf8, type: 3}
+  - {fileID: 2800000, guid: 344af90ed60f96447801596dc5194c70, type: 3}
+  - {fileID: 2800000, guid: 8b3b5dcefb13f9749adfaa0009fa7561, type: 3}
